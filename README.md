@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @diarmuidcorr
-- 🏢 I'm a PhD student at Lancaster University.
-- 👀 I’m interested in the remote sensing of earth's major ice sheets (Antarctica and Greenland) and in particular methods used to map supraglacial hydrology.
-- 🌱 I’m currently developing my knowledge on machine learning approaches to classify these surface water features from optical satellite imagery.
-- 📫 You can reach me by email at d.corr@lancaster.ac.uk.
-- 💻 You can see my profile at: https://www.lancaster.ac.uk/lec/about-us/people/diarmuid-corr.
+- 🏢 I'm an Innovation and Experience Manager at [iReel](https://example.com/docs).
+- 📫 You can reach me by email at diarmuid.corr[at]ireel.ai.
+- 📜 I completed my PhD at Lancaster University. You can see my profile at: https://www.lancaster.ac.uk/lec/about-us/people/diarmuid-corr.
