@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @diarmuidcorr
 - 🏢 I'm an Innovation and Experience Manager at [iReel](https://example.com/docs).
 - 📫 You can reach me by email at diarmuid.corr[at]ireel.ai.
-- 📜 I completed my PhD at Lancaster University. You can see my profile at: https://www.lancaster.ac.uk/lec/about-us/people/diarmuid-corr.
+- 📜 I completed my PhD at Lancaster University. You can see my profile [here](https://www.research.lancs.ac.uk/portal/en/people/diarmuid-corr(3d378a67-9b3b-489f-a2e8-ce58d661f80f).html).
